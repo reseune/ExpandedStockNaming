@@ -9,4 +9,4 @@ Thank you @linuxgurugamer for PDPN, which gave me the idea to do this for myself
 
 License: GPL 3.0
 
-Source: Github
+Source: Github: https://github.com/reseune/ExpandedStockNaming
